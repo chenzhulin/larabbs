@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17fc893a-30cc-46b9-82d8-65c417dfe757" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoriesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/TopicsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/TopicsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Models/Topic.php" afterPath="$PROJECT_DIR$/app/Models/Topic.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/topics/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/topics/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Models/User.php" afterPath="$PROJECT_DIR$/app/Models/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +41,8 @@
       <file leaf-file-name="Topic.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Models/Topic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="552">
+              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -437,15 +435,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552963437419</updated>
       <workItem from="1552963446427" duration="12811000" />
-      <workItem from="1553065700391" duration="161000" />
+      <workItem from="1553065700391" duration="767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12972000" />
+    <option name="totallyTimeSpent" value="13578000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="106" width="1936" height="1056" extended-state="0" />
+    <frame x="788" y="106" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104189046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -701,8 +699,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Topic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="552">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="36" />
           <folding />
         </state>
       </provider>
