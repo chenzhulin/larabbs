@@ -16918,3 +16918,12 @@ body {
   line-height: 38px;
 }
 
+.topic-replay a {
+  color: inherit;
+}
+
+.topic-replay .meta {
+  font-size: 0.9em;
+  color: #b3b3b3;
+}
+
