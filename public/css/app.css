@@ -16908,11 +16908,15 @@ body {
   content: normal;
 }
 
-.topics-show-page .card {
+.topics-show-page .card,
+.categories-show-page .card,
+.root-page .card {
   padding: 15px;
 }
 
-.topics-show-page .card h1 {
+.topics-show-page .card h1,
+.categories-show-page .card h1,
+.root-page .card h1 {
   margin: 0.4em auto 0.6em;
   font-size: 28px;
   line-height: 38px;
